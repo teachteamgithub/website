@@ -1,4 +1,13 @@
 The New elementary.io
+
+
+
+[![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
+
+
+
+
+
 ================
 
 [![Bountysource](https://www.bountysource.com/badge/tracker?tracker_id=10548672)](https://www.bountysource.com/trackers/10548672-elementary-website)
